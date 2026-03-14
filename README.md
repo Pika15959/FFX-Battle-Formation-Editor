@@ -2,6 +2,7 @@
 Allows you to change monsters and rearrange their positions on the Battlefield.
 
 You open up the Battle.bin files and can change their position or what monster they are.
+NAME a folder "MonsterBattle_scripts" - put it adjacent to the python file and place your battle .bin scripts therein.
 
 Important Note:
 (1)This often makes the battle file larger, which necessitates increasing the size limitations in a Vita.Bin file for it to fully load in-game.
